@@ -1,0 +1,9 @@
+student_id,name,year,gpa,skills_text,current_assignments,availability
+S001,Somchai,4,3.45,"Python, Django, REST API, Machine Learning, Regression Modeling",1,high
+S002,Suriya,3,3.80,"React, HTML, CSS, UX Design, Frontend Development",0,high
+S003,Aom,2,3.20,"Python, Flask, Data Engineering, SQL, ETL Pipelines",0,medium
+S004,Nok,4,3.60,"Python, Django, Authentication, REST, Software Engineering",4,low
+S005,Kai,3,3.10,"Java, Spring Boot, SQL, Backend Development",2,medium
+S006,Pim,4,3.75,"Python, NLP, Embeddings, Text Classification, Transformers",1,high
+S007,Earth,3,3.00,"DevOps, Docker, Kubernetes, CI/CD, Cloud Infrastructure",3,medium
+S008,May,2,3.50,"Data Analysis, Pandas, Visualization, Statistics",0,high
