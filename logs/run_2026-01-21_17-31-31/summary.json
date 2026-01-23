@@ -1,0 +1,12 @@
+{
+  "project_id": "P_CHAT",
+  "project_title": "พัฒนาและDeploy prediction model สำหรับการทำนายผลลั",
+  "role_quotas": {
+    "data scientist": 1,
+    "machine learning engineer": 1,
+    "data engineer": 1
+  },
+  "accepted_count": 0,
+  "rejected_count": 7,
+  "upskill_count": 8
+}
