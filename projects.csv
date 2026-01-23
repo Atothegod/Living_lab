@@ -1,8 +1,0 @@
-project_id,title,description,required_skills_text,quota,min_year,min_score,difficulty
-P001,NLP Chatbot,"Build an intent classification chatbot for customer support","Python, NLP, Text Classification, Embeddings",2,3,0.6,hard
-P002,Django Web App,"Develop a Django web application with authentication and REST APIs","Python, Django, REST API, Authentication",1,2,0.65,medium
-P003,Frontend Dashboard,"Redesign analytics dashboard UI","React, Frontend Development, UX",2,2,0.55,easy
-P004,Data Pipeline,"Create ETL pipeline for analytics data","Python, Data Engineering, SQL, ETL",1,3,0.6,medium
-P005,MLOps Infrastructure,"Set up CI/CD and deployment for ML models","MLOps, Docker, Kubernetes, CI/CD",1,4,0.7,hard
-
-project_id,title,description,required_skills_text,quota,min_year,min_score,difficulty
