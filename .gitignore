@@ -5,3 +5,5 @@
 *.log
 .env*
 test_case.txt
+dspy_case.ipynb
+not
