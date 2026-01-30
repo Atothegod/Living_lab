@@ -1,4 +1,5 @@
 /living_lab/
+/logs/
 *.csv
 *.db
 *.sqlite
