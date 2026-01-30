@@ -1,0 +1,11 @@
+{
+  "project_id": "P_CHAT",
+  "project_title": "Development of a Django-based web application usin",
+  "role_quotas": {
+    "backend developer (django)": 2,
+    "database administrator": 1
+  },
+  "accepted_count": 3,
+  "rejected_count": 5,
+  "upskill_count": 0
+}

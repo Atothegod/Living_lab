@@ -1,0 +1,12 @@
+{
+  "project_id": "P_CHAT",
+  "project_title": "Develop a Django-based web application that incorp",
+  "role_quotas": {
+    "django backend developer": 1,
+    "data engineer": 1,
+    "ml engineer": 1
+  },
+  "accepted_count": 3,
+  "rejected_count": 3,
+  "upskill_count": 2
+}
